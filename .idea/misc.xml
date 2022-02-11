@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/Layouts/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/Layouts/src/main/res/layout/rlayout.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/Layouts/src/main/res/layout/tlayout.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0081_ViewById/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0091_OnClickButtons/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0101_Listener/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0102_ActivityListener/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0111_ResValues/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0121_LogAndMess/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0161_DynamicLayout/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0171_DynamicLayout2/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0181_DynamicLayout3/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0191_SimpleCalculator/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0201_SimpleAnimation/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_AboutActionBarItems2/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_AboutActionBarItems2/src/main/res/menu/main2.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_ActionBarItems/src/main/res/menu/main2.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_copyofactionbaritems/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_copyofactionbaritems/src/main/res/menu/main2.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1081_ActionBarNavigation/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/myapplication/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/myapplication/src/main/res/menu/main2.xml" value="0.1" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0031firstproject/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout-land/myscreen.xml" value="0.421875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0051layoutfiles/src/main/res/layout/myscreen.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0072_layoutprop/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0072_layoutprop/src/main/res/layout/grlayout.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0072_layoutprop/src/main/res/layout/marginlayout.xml" value="0.3359375" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0211twoactivity/src/main/res/layout/activity_two.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

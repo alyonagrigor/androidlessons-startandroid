@@ -1,0 +1,30 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Android Lessons"
+include ':app'
+include ':p0031firstproject'
+include ':p0051layoutfiles'
+include ':Layouts'
+include ':p0072_layoutprop'
+include ':P0081_ViewById'
+include ':P0091_OnClickButtons'
+include ':P0101_Listener'
+include ':P0102_ActivityListener'
+include ':P0111_ResValues'
+include ':P0121_LogAndMess'
+include ':P1071_AboutActionBarItems2'
+include ':P0151_ContextMenu'
+include ':P1071_copyofactionbaritems'
+include ':P1081_ActionBarNavigation'
+include ':P0161_DynamicLayout'
+include ':P0171_DynamicLayout2'
+include ':P0181_DynamicLayout3'
+include ':P0191_SimpleCalculator'
+include ':P0201_SimpleAnimation'
+include ':p0211twoactivity'
