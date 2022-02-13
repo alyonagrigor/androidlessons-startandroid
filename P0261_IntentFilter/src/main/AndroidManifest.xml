@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.p0251_manyactivitystate">
+    package="com.example.p0261_intentfilter">
 
     <application
         android:allowBackup="true"
@@ -10,16 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidLessons">
         <activity
-            android:name=".ActivityThree"
-            android:theme="@style/Base.Theme.AppCompat.Dialog"
-            android:exported="false" />
-        <activity
-            android:name=".ActivityTwo"
-            android:theme="@style/Base.Theme.AppCompat.Dialog"
-            android:exported="false" />
+            android:name=".ActivityTime"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.showtime" />
+            <category android:name="android.intent.category.DEFAULT"/>
+        </intent-filter>
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

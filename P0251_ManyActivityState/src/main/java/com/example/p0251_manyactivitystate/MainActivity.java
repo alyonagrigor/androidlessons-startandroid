@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.os.Bundle;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements OnClickListener {
 
@@ -16,16 +17,19 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
     Button btnActTwo;
     Button btnActThree;
+    TextView tv;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        tv = (TextView) findViewById(R.id.tv);
         btnActTwo = (Button) findViewById(R.id.btnActTwo);
         btnActThree = (Button) findViewById(R.id.btnActThree);
         btnActTwo.setOnClickListener(this);
         btnActThree.setOnClickListener(this);
+
 
         Log.d(TAG, "MainActivity: onCreate()");
     }
@@ -51,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     @Override
     protected void onPause() {
         super.onPause();
+        tv.setText("Main Activity on Pause");
         Log.d(TAG, "MainActivity: onPause()");
     }
 
@@ -68,8 +73,17 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
     @Override
     public void onClick(View v) {
+        Intent intent;
 
-        Intent intent = new Intent(this, ActivityTwo.class);
-        startActivity(intent);
+        switch (v.getId()) {
+            case R.id.btnActTwo:
+                intent = new Intent(this, ActivityTwo.class);
+                startActivity(intent);
+                break;
+            case R.id.btnActThree:
+                intent = new Intent(this, ActivityThree.class);
+                startActivity(intent);
+                break;
+        }
     }
 }
