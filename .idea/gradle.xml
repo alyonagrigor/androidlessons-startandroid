@@ -32,10 +32,12 @@
             <option value="$PROJECT_DIR$/P1071_copyofactionbaritems" />
             <option value="$PROJECT_DIR$/P1081_ActionBarNavigation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mediaapp" />
             <option value="$PROJECT_DIR$/p0031firstproject" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
             <option value="$PROJECT_DIR$/p0072_layoutprop" />
             <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/service" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

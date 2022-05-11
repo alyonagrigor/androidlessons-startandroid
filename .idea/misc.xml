@@ -17,12 +17,14 @@
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0181_DynamicLayout3/src/main/res/layout/activity_main.xml" value="0.340625" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0191_SimpleCalculator/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0201_SimpleAnimation/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P0231_OneActivityState/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_AboutActionBarItems2/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_AboutActionBarItems2/src/main/res/menu/main2.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_ActionBarItems/src/main/res/menu/main2.xml" value="0.35" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_copyofactionbaritems/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1071_copyofactionbaritems/src/main/res/menu/main2.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/P1081_ActionBarNavigation/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/mediaapp/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/myapplication/src/main/res/layout/activity_main.xml" value="0.35" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/myapplication/src/main/res/menu/main2.xml" value="0.1" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0031firstproject/src/main/res/layout/activity_main.xml" value="0.33" />
@@ -34,13 +36,7 @@
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0072_layoutprop/src/main/res/layout/marginlayout.xml" value="0.3359375" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/p0211twoactivity/src/main/res/layout/activity_two.xml" value="0.3546875" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0241_TwoActivityState/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0241_TwoActivityState/src/main/res/layout/two.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0251_ManyActivityState/src/main/res/layout/activity_main.xml" value="0.24728260869565216" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0251_ManyActivityState/src/main/res/layout/activity_three.xml" value="0.24728260869565216" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0251_ManyActivityState/src/main/res/layout/activity_two.xml" value="0.24010416666666667" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0261_IntentFilter/src/main/res/layout/activity_main.xml" value="0.24728260869565216" />
-        <entry key="..\:/Users/ivanc/AndroidStudioProjects/androidlessons-startandroid/P0261_IntentFilter/src/main/res/layout/time.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/defaultuser0/AndroidStudioProjects/AndroidLessons/service/src/main/res/layout/activity_main.xml" value="0.1375" />
       </map>
     </option>
   </component>
